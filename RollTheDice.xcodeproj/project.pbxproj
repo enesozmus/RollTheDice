@@ -11,6 +11,8 @@
 		DF21D1822BCBF4D600C7B3C6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF21D1812BCBF4D600C7B3C6 /* ContentView.swift */; };
 		DF21D1842BCBF4D700C7B3C6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF21D1832BCBF4D700C7B3C6 /* Assets.xcassets */; };
 		DF21D1872BCBF4D700C7B3C6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF21D1862BCBF4D700C7B3C6 /* Preview Assets.xcassets */; };
+		DF21D18E2BCBF51200C7B3C6 /* Dice.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF21D18D2BCBF51200C7B3C6 /* Dice.swift */; };
+		DF21D1902BCBF57400C7B3C6 /* FileManager-DocumentsDirectory.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF21D18F2BCBF57400C7B3C6 /* FileManager-DocumentsDirectory.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		DF21D1812BCBF4D600C7B3C6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DF21D1832BCBF4D700C7B3C6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DF21D1862BCBF4D700C7B3C6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DF21D18D2BCBF51200C7B3C6 /* Dice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dice.swift; sourceTree = "<group>"; };
+		DF21D18F2BCBF57400C7B3C6 /* FileManager-DocumentsDirectory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FileManager-DocumentsDirectory.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				DF21D1812BCBF4D600C7B3C6 /* ContentView.swift */,
 				DF21D1832BCBF4D700C7B3C6 /* Assets.xcassets */,
 				DF21D1852BCBF4D700C7B3C6 /* Preview Content */,
+				DF21D18D2BCBF51200C7B3C6 /* Dice.swift */,
+				DF21D18F2BCBF57400C7B3C6 /* FileManager-DocumentsDirectory.swift */,
 			);
 			path = RollTheDice;
 			sourceTree = "<group>";
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				DF21D1822BCBF4D600C7B3C6 /* ContentView.swift in Sources */,
+				DF21D18E2BCBF51200C7B3C6 /* Dice.swift in Sources */,
+				DF21D1902BCBF57400C7B3C6 /* FileManager-DocumentsDirectory.swift in Sources */,
 				DF21D1802BCBF4D600C7B3C6 /* RollTheDiceApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
